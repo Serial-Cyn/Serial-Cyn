@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🌱 I’m currently learning Artificial Intelligence and Game Development!
+- 🤔 I’m looking for help with learning the aspects of AI and Game Dev
+- 🔭 I’m currently working on my Portfolio Website
 
 <!--
 **Serial-Cyn/Serial-Cyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
