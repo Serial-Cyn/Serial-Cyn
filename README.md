@@ -1,19 +1,11 @@
-## Hi there 👋
-- 🌱 I’m currently learning Artificial Intelligence and Game Development!
-- 🤔 I’m looking for help with learning the aspects of AI and Game Dev
-- 🔭 I’m currently working on my Portfolio Website
+# HELLO, WORLD!
+Developing **games** and **websites** that is fully-tailored to *user needs* and delivers *memorable experiences*, 
+using my favorite formula, **fun** and a handful of **love**!
 
-<!--
-**Serial-Cyn/Serial-Cyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## LIFE
+Currently a college student, but actively looking for opportunities to grow my expertise and discover people 
+who I can collaborate with.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GOAL
+Learning Artificial Intelligence, Game Development, Software Development in using different programming language, 
+and Web Development with knowledge of various frameworks.
